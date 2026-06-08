@@ -28,7 +28,7 @@ button a:hover {
   img {
     max-width: 90%;
     margin: 10px;
-    text-align: center;
+   display:block; 
   }
 
   table{
