@@ -50,3 +50,8 @@ font-family: 'Times New Roman', Times, serif; text-align: center;}
 .ramka {outline-style: double; color: aquamarine;}
 
 
+.navbar {
+    border: #00ff55;
+}
+
+
