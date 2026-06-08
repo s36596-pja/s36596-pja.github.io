@@ -8,9 +8,10 @@ p {text-align: left;
     color: #f5edd4;
   padding: 10px;}
 
-    nav { background-color: #d4fffc;
+    nav { background-color: #82fff0a9;
   text-decoration: none;
   width: 100vw;
+  
     }
 
 
@@ -25,7 +26,8 @@ button a:hover {
   color: #d5ffb4;}
 
   img {
-    max-width: 100%
+    max-width: 90vw;
+    padding: 10px;
   }
 
   table{
