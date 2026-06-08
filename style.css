@@ -26,8 +26,9 @@ button a:hover {
   color: #d5ffb4;}
 
   img {
-    max-width: 90vw;
-    padding: 10px;
+    max-width: 90%;
+    margin: 10px;
+    text-align: center;
   }
 
   table{
