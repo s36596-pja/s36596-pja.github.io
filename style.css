@@ -1,16 +1,36 @@
 body { background: linear-gradient(to top,#71b28f  0%, #135a5e 50%, #172622 100%);
-    length: 100vh; background-repeat: no-repeat; }
+    length: 100vh; background-repeat: no-repeat; margin: 50px; }
 
     h1 {text-align: center;
     color: #ffffff;}
 
-botton a {
+p {text-align: left;
+    color: #f5edd4;
+  padding: 10px;}
+
+    nav { background-color: #d4fffc;
+  text-decoration: none;
+  width: 100vw;
+    }
+
+
+button a {
   background-color: #bed7aa;
     color: rgb(2, 21, 40);
   padding: 0px 10px;
-  text-decoration: none;
-  
-}
-botton a:hover {
+  text-decoration: none; }
+
+button a:hover {
   background-color: #06291d;
   color: #d5ffb4;}
+
+  img {
+    max-width: 100%
+  }
+
+  table{
+  
+  }
+
+  td, th, {color: white
+  }
